@@ -1,0 +1,6 @@
+@SEM14_HostAddress = http://localhost:5137
+
+GET {{SEM14_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
